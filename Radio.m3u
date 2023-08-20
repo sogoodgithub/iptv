@@ -99,7 +99,7 @@ https://crystalout.surfernetwork.com:8001/KVSP_MP3
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,Capital FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM.mp3
-#EXTINF:-1,YES FM
+#EXTINF:-1,Yes FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
 #EXTINF:-1,NPR News
 http://npr-ice.streamguys1.com/live.mp3
