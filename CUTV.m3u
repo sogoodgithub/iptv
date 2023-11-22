@@ -16,7 +16,6 @@ CCTV-15，http://192.168.50.1:8080/rtp/239.3.1.153:8136
 CCTV-16，http://192.168.50.1:8080/rtp/239.3.1.184:8001
 CCTV-17，http://192.168.50.1:8080/rtp/239.3.1.151:8144
 CCTV-5+，http://192.168.50.1:8080/rtp/239.3.1.130:8004
-CCTV-4K，http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CETV-01，http://txycetvbl.centv.cn/cetv1/ypd.m3u8 
 CETV-02，http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8 
 CETV-03，http://txycetvbl.centv.cn/cetv3/bjdm.m3u8 
