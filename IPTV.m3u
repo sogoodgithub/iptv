@@ -39,50 +39,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.
 http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K超高清" tvg-name="CCTV8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 channel-id="samsung-ATBD190000101" tvg-id="ATBD190000101" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD190000101_20230614T005518SQUARE.png_20230614005519.png" tvg-chno="4312" group-title="Austria" , CNN FAST
-https://i.mjh.nz/SamsungTVPlus/ATBD190000101.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png" tvg-chno="4005" group-title="United Kingdom" , CNN
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1900008O3" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png" tvg-chno="4312" group-title="United Kingdom" , CNN FAST
-https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
-#EXTINF:-1 channel-id="samsung-GBBB1000002VQ" tvg-id="GBBB1000002VQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1000002VQ_20220426T161616SQUARE.png_20220426161617.png" tvg-chno="4316" group-title="United Kingdom" , TalkTV
-https://i.mjh.nz/SamsungTVPlus/GBBB1000002VQ.m3u8
-#EXTINF:-1 channel-id="samsung-GBBB1500004LG" tvg-id="GBBB1500004LG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20230913T031533SQUARE.png_20230913031533.png" tvg-chno="4318" group-title="United Kingdom" , NBC News NOW
-https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-#EXTINF:-1 channel-id="samsung-GBBA3300033C2" tvg-id="GBBA3300033C2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20221026T004719SQUARE.png_20221026004720.png" tvg-chno="4320" group-title="United Kingdom" , Bloomberg TV+
-https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC900012J9" tvg-id="GBBC900012J9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900012J9_20230125T022351SQUARE.png_20230125022351.png" tvg-chno="4321" group-title="United Kingdom" , Bloomberg Originals
-https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-#EXTINF:-1 channel-id="samsung-GBBA33000219V" tvg-id="GBBA33000219V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000219V_20220323T071045SQUARE.png_20220323071048.png" tvg-chno="4323" group-title="United Kingdom" , Reuters
-https://i.mjh.nz/SamsungTVPlus/GBBA33000219V.m3u8
-#EXTINF:-1 channel-id="samsung-GBBB1600008R3" tvg-id="GBBB1600008R3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png" tvg-chno="4326" group-title="United Kingdom" , GB News
-https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ2400003DD" tvg-id="GBAJ2400003DD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ2400003DD_20220323T071326SQUARE.png_20220323071329.png" tvg-chno="4330" group-title="United Kingdom" , The Guardian
-https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-#EXTINF:-1 channel-id="samsung-GBBB16000040C" tvg-id="GBBB16000040C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB16000040C_20230322T075358SQUARE.png_20230322075359.png" tvg-chno="4333" group-title="United Kingdom" , Euronews Stories
-https://i.mjh.nz/SamsungTVPlus/GBBB16000040C.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ49000184K" tvg-id="GBAJ49000184K" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png" tvg-chno="4411" group-title="United Kingdom" , Travelxp
-https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ49000197P" tvg-id="GBAJ49000197P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000197P_20230726T033534SQUARE.png_20230726033537.png" tvg-chno="4414" group-title="United Kingdom" , GoUSA TV
-https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1100003I0" tvg-id="GBBD1100003I0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100003I0_20230614T011917SQUARE.png_20230614011918.png" tvg-chno="4416" group-title="United Kingdom" , Love Pets
-https://i.mjh.nz/SamsungTVPlus/GBBD1100003I0.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ4900002DE" tvg-id="GBAJ4900002DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900002DE_20220323T070849SQUARE.png_20220323070852.png" tvg-chno="4423" group-title="United Kingdom" , Fashion TV
-https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC4000002H3" tvg-id="GBBC4000002H3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20230913T031538SQUARE.png_20230913031539.png" tvg-chno="4425" group-title="United Kingdom" , The Jamie Oliver Channel
-https://i.mjh.nz/SamsungTVPlus/GBBC4000002H3.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD25000019N" tvg-id="GBBD25000019N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20230726T033541SQUARE.png_20230726033542.png" tvg-chno="4428" group-title="United Kingdom" , Masterchef UK: 'Powered by Banijay'
-https://i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8
-#EXTINF:-1 channel-id="samsung-GBBC900014LW" tvg-id="GBBC900014LW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900014LW_20230712T021153SQUARE.png_20230712021154.png" tvg-chno="4430" group-title="United Kingdom" , Great British Menu
-https://i.mjh.nz/SamsungTVPlus/GBBC900014LW.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ700002OS" tvg-id="GBAJ700002OS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ700002OS_20220323T071027SQUARE.png_20220323071030.png" tvg-chno="4435" group-title="United Kingdom" , Pluto TV Food
-https://i.mjh.nz/SamsungTVPlus/GBAJ700002OS.m3u8
-#EXTINF:-1 channel-id="samsung-GBBA330001986" tvg-id="GBBA330001986" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330001986_20220323T070908SQUARE.png_20220323070911.png" tvg-chno="4444" group-title="United Kingdom" , Gusto TV
-https://i.mjh.nz/SamsungTVPlus/GBBA330001986.m3u8
-#EXTINF:-1 channel-id="samsung-GBBB38000093D" tvg-id="GBBB38000093D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB38000093D_20220323T071320SQUARE.png_20220323071323.png" tvg-chno="4447" group-title="United Kingdom" , Tastemade
-https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1100002L5" tvg-id="GBBD1100002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" tvg-chno="4314" group-title="United Kingdom" , FRANCE 24 FAST
-https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰香港.png" group-title="国际",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰中文.png" group-title="国际",凤凰中文
@@ -93,6 +49,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/32212285
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="samsung-GBBD1900008O3" tvg-name="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png"  group-title="国际",CNN新闻
+https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际" ,Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="国际" ,TRT World
