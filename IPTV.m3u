@@ -133,8 +133,6 @@ http://iptv.8t.cx:8180/udp/239.3.1.117:8000
 http://iptv.8t.cx:8180/udp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京影视.png" group-title="地方",北京影视
 http://iptv.8t.cx:8180/udp/239.3.1.158:8000
-EXTINF:-1 tvg-id="体育休闲" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京体育休闲.png" group-title="地方",体育休闲
-http://iptv.8t.cx:8180/udp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="北京国际" tvg-name="北京国际频道" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京国际.png" group-title="地方",北京国际
 http://iptv.8t.cx:8180/udp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京纪实科教.png" group-title="地方",纪实科教
