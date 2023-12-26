@@ -123,6 +123,16 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/云南卫视.png" group-title="卫视",云南卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京新闻.png" group-title="北京",BRTV新闻
+http://iptv.8t.cx:8180/udp/239.3.1.159:8000
+#EXTINF:-1,tvg-id="" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京财经.png" group-title="北京",BRTV财经
+http://iptv.8t.cx:8180/udp/239.3.1.116:8000
+#EXTINF:-1,tvg-id="" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京生活.png" group-title="北京",BRTV生活
+http://iptv.8t.cx:8180/udp/239.3.1.117:8000
+#EXTINF:-1,tvg-id="" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京文艺.png" group-title="北京",BRTV文艺
+http://iptv.8t.cx:8180/udp/239.3.1.242:8000
+#EXTINF:-1,tvg-id="" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京影视.png" group-title="北京",BRTV影视
+http://iptv.8t.cx:8180/udp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="地方",中国教育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/职教频道.png" group-title="地方",职教频道
