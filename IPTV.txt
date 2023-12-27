@@ -29,7 +29,7 @@ BBC美洲,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-ea
 CBS新闻,https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 CBN新闻,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK综合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+NHK卫视,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
