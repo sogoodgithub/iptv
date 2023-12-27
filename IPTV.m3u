@@ -55,7 +55,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="国际",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="NHK BSP" tvg-name="NHK BSP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BSプレミアム_新ロゴ.png" group-title="国际",NHK综合
+#EXTINF:-1 tvg-id="NHK BSP" tvg-name="NHK BSP" tvg-logo="https://epg.112114.xyz/logo/NHKBSP.png" group-title="国际",NHK综合
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="国际",RT新闻
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
