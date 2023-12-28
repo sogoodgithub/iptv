@@ -31,8 +31,6 @@ http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 group-title="未分类",CNR香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR民族之声
-http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
 #EXTINF:-1 group-title="未分类",CNR文艺之声
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 #EXTINF:-1 group-title="未分类",CNR乡村之声
@@ -41,8 +39,6 @@ http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 #EXTINF:-1 group-title="未分类",CNR老年之声
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR香港之声
-http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 #EXTINF:-1 group-title="未分类",CRI轻松调频
 http://sk.cri.cn/915.m3u8
 #EXTINF:-1 group-title="未分类",CRI环球资讯
