@@ -1,5 +1,15 @@
+电视直播源搜索｜最新无线多线路直播源分享 : http://tonkiang.us/
+
 无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0  
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 http://r.jdshipin.com/CkuBd
+
+BBC
+BBC World News HD
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+
+HBo:
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
