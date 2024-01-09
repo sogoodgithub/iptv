@@ -1,161 +1,161 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分类",北京新闻广播
+#EXTINF:-1 group-title="北京",北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",北京文艺广播
+#EXTINF:-1 group-title="北京",北京文艺广播
 http://ls.qingting.fm/live/333.m3u8
-#EXTINF:-1 group-title="未分类",北京交通广播
+#EXTINF:-1 group-title="北京",北京交通广播
 http://ls.qingting.fm/live/336.m3u8
-#EXTINF:-1 group-title="未分类",北京音乐广播
+#EXTINF:-1 group-title="北京",北京音乐广播
 http://ls.qingting.fm/live/332.m3u8
-#EXTINF:-1 group-title="未分类",北京新闻广播
+#EXTINF:-1 group-title="北京",北京新闻广播
 http://ls.qingting.fm/live/339.m3u8
-#EXTINF:-1 group-title="未分类",北京城市广播
+#EXTINF:-1 group-title="北京",北京城市广播
 http://ls.qingting.fm/live/345.m3u8
-#EXTINF:-1 group-title="未分类",北京经典调频
+#EXTINF:-1 group-title="北京",北京经典调频
 http://live.funhillrm.com/4/sd/live.m3u8
-#EXTINF:-1 group-title="未分类",CNR交通广播
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR中国之声
-http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR经济之声
-http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR音乐之声
-http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR经典音乐
-http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR中华之声
-http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR神州之声
-http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR湾区之声
-http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR文艺之声
-http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR乡村之声
-http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR阅读之声
-http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 group-title="未分类",CNR老年之声
-http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1 group-title="未分类",CRI轻松调频
+#EXTINF:-1 group-title="北京",CRI轻松调频
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1 group-title="未分类",CRI环球资讯
+#EXTINF:-1 group-title="北京",CRI环球资讯
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1 group-title="未分类",CRI华语环球
+#EXTINF:-1 group-title="北京",CRI华语环球
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 group-title="未分类",CRI南海之声
+#EXTINF:-1 group-title="北京",CRI南海之声
 http://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1 group-title="未分类",CRI英语环球
+#EXTINF:-1 group-title="北京",CRI英语环球
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 group-title="未分类",CRI英语教学
+#EXTINF:-1 group-title="北京",CRI英语教学
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1 group-title="未分类",CRI HIT FM
-https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
-#EXTINF:-1 group-title="未分类",湖南文艺广播 
+#EXTINF:-1 group-title="北京",CRI HIT FM
+https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8北京
+#EXTINF:-1 group-title="央广",CNR交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 group-title="央广",CNR中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 group-title="央广",CNR经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 group-title="央广",CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 group-title="央广",CNR经典音乐
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 group-title="央广",CNR中华之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 group-title="央广",CNR神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1 group-title="央广",CNR湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1 group-title="央广",CNR文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1 group-title="央广",CNR乡村之声
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1 group-title="央广",CNR阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 group-title="央广",CNR老年之声
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 group-title="地方",湖南文艺广播 
 https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",湖南音乐之声
+#EXTINF:-1 group-title="地方",湖南音乐之声
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
-#EXTINF:-1 group-title="未分类",湖南旅游广播 
+#EXTINF:-1 group-title="地方",湖南旅游广播 
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",江苏音乐广播
+#EXTINF:-1 group-title="地方",江苏音乐广播
 https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",江苏故事广播
+#EXTINF:-1 group-title="地方",江苏故事广播
 https://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",江苏文艺广播
+#EXTINF:-1 group-title="地方",江苏文艺广播
 https://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",楚天音乐广播
+#EXTINF:-1 group-title="地方",楚天音乐广播
 https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",广西音乐广播
+#EXTINF:-1 group-title="地方",广西音乐广播
 https://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",云南音乐广播
+#EXTINF:-1 group-title="地方",云南音乐广播
 https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",河北音乐广播
+#EXTINF:-1 group-title="地方",河北音乐广播
 https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",BCC中广音乐
+#EXTINF:-1 group-title="地方",BCC中广音乐
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 group-title="未分类",BCC中广新闻
+#EXTINF:-1 group-title="地方",BCC中广新闻
 http://stream.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 group-title="未分类",BCC中广流行
+#EXTINF:-1 group-title="地方",BCC中广流行
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1 group-title="未分类",80后音悦
+#EXTINF:-1 group-title="数字",80后音悦
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",经典FM
+#EXTINF:-1 group-title="数字",经典FM
 http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-#EXTINF:-1 group-title="未分类",潮流音悦
+#EXTINF:-1 group-title="数字",潮流音悦
 http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1 group-title="未分类",有声文摘
+#EXTINF:-1 group-title="数字",有声文摘
 http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
-#EXTINF:-1 group-title="未分类",安全百科
+#EXTINF:-1 group-title="数字",安全百科
 http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
-#EXTINF:-1 group-title="未分类",民谣音乐
+#EXTINF:-1 group-title="数字",民谣音乐
 http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
-#EXTINF:-1 group-title="未分类",天籁古典
+#EXTINF:-1 group-title="数字",天籁古典
 http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-#EXTINF:-1 group-title="未分类",摇滚天空
+#EXTINF:-1 group-title="数字",摇滚天空
 http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
-#EXTINF:-1 group-title="未分类",国乐悠扬
+#EXTINF:-1 group-title="数字",国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-#EXTINF:-1 group-title="未分类",华艺广播
+#EXTINF:-1 group-title="数字",华艺广播
 http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
-#EXTINF:-1 group-title="未分类",第一财经
+#EXTINF:-1 group-title="数字",第一财经
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1 group-title="未分类",DRHK
+#EXTINF:-1 group-title="国际",DRHK
 http://sc.digitalradiohk.net:8394
-#EXTINF:-1 group-title="未分类",One FM
+#EXTINF:-1 group-title="国际",One FM
 http://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:-1 group-title="未分类",Gold FM
+#EXTINF:-1 group-title="国际",Gold FM
 http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
-#EXTINF:-1 group-title="未分类",Hao FM
+#EXTINF:-1 group-title="国际",Hao FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
-#EXTINF:-1 group-title="未分类",Kiss FM
+#EXTINF:-1 group-title="国际",Kiss FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
-#EXTINF:-1 group-title="未分类",Classic FM
+#EXTINF:-1 group-title="国际",Classic FM
 http://ice-sov.musicradio.com/ClassicFM
-#EXTINF:-1 group-title="未分类",Money FM
+#EXTINF:-1 group-title="国际",Money FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
-#EXTINF:-1 group-title="未分类",Power FM
+#EXTINF:-1 group-title="国际",Power FM
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
-#EXTINF:-1 group-title="未分类",CGTN News
+#EXTINF:-1 group-title="国际",CGTN News
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 group-title="未分类",Capital FM
+#EXTINF:-1 group-title="国际",Capital FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM.mp3
-#EXTINF:-1 group-title="未分类",Yes FM
+#EXTINF:-1 group-title="国际",Yes FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
-#EXTINF:-1 group-title="未分类",NPR News
+#EXTINF:-1 group-title="国际",NPR News
 http://npr-ice.streamguys1.com/live.mp3
-#EXTINF:-1 group-title="未分类",Al Jazeera
+#EXTINF:-1 group-title="国际",Al Jazeera
 http://tunein.ord.streamguys1.com/secure-aljazeera-english
-#EXTINF:-1 group-title="未分类",BBC News
+#EXTINF:-1 group-title="国际",BBC News
 https://utulsa.streamguys1.com/KWGSHD3-MP3
-#EXTINF:-1 group-title="未分类",CNN News
+#EXTINF:-1 group-title="国际",CNN News
 http://tunein.ord.streamguys1.com/secure-CNNi
-#EXTINF:-1 group-title="未分类",LBC News
+#EXTINF:-1 group-title="国际",LBC News
 https://icecast.thisisdax.com/LBCNewsUKMP3
-#EXTINF:-1 group-title="未分类",LBC UK
+#EXTINF:-1 group-title="国际",LBC UK
 https://ice-sov.musicradio.com/LBCUKMP3
-#EXTINF:-1 group-title="未分类",Times Radio
+#EXTINF:-1 group-title="国际",Times Radio
 http://timesradio.wireless.radio/stream
-#EXTINF:-1 group-title="未分类",News Radio UK
+#EXTINF:-1 group-title="国际",News Radio UK
 http://playoutonestreaming.com:8008/stream
-#EXTINF:-1 group-title="未分类",MSNBC Radio
+#EXTINF:-1 group-title="国际",MSNBC Radio
 http://peridot.streamguys.com:7850/live
-#EXTINF:-1 group-title="未分类",BBC Radio 1
+#EXTINF:-1 group-title="国际",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
-#EXTINF:-1 group-title="未分类",BBC Radio 1Xtra
+#EXTINF:-1 group-title="国际",BBC Radio 1Xtra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
-#EXTINF:-1 group-title="未分类",BBC Radio 1 Dance
+#EXTINF:-1 group-title="国际",BBC Radio 1 Dance
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
-#EXTINF:-1 group-title="未分类",BBC Radio 1 Relax
+#EXTINF:-1 group-title="国际",BBC Radio 1 Relax
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
-#EXTINF:-1 group-title="未分类",BBC Radio 2
+#EXTINF:-1 group-title="国际",BBC Radio 2
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
-#EXTINF:-1 group-title="未分类",BBC Radio 3
+#EXTINF:-1 group-title="国际",BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
-#EXTINF:-1 group-title="未分类",BBC Radio 4
+#EXTINF:-1 group-title="国际",BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
-#EXTINF:-1 group-title="未分类",BBC Radio 4 Extra
+#EXTINF:-1 group-title="国际",BBC Radio 4 Extra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
-#EXTINF:-1 group-title="未分类",BBC Radio 5 Live
+#EXTINF:-1 group-title="国际",BBC Radio 5 Live
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
-#EXTINF:-1 group-title="未分类",BBC Radio 6 Music
+#EXTINF:-1 group-title="国际",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
