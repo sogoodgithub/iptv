@@ -107,5 +107,3 @@ rtp://239.3.1.165:8001
 rtp://239.3.1.164:8001
 #EXTINF:-1 tvg-name="中国教育，rtp://239.3.1.57:8152" tvg-logo="https://live.fanmingming.com/tv/中国教育.png，中国教育
 rtp://239.3.1.57:8152
-#EXTINF:-1 tvg-name="爱上4K，rtp://239.3.1.236:2000" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png，爱上4K
-rtp://239.3.1.236:2000
