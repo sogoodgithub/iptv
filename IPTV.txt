@@ -35,7 +35,7 @@ GB新闻,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/mani
 RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+CG新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 TalkTV,https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
 TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
