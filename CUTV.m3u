@@ -9,8 +9,6 @@ rtp://239.3.1.172:8001
 rtp://239.3.1.105:8092
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5.png" group-title="央视",CCTV-5
 rtp://239.3.1.173:8001
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="央视",CCTV-5+
-rtp://239.3.1.130:8004
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6.png" group-title="央视",CCTV-6
 rtp://239.3.1.174:8001
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV7.png" group-title="央视",CCTV-7
@@ -37,7 +35,13 @@ rtp://239.3.1.184:8001
 rtp://239.3.1.151:8144
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k.png" group-title="央视",CCTV-4K
 rtp://239.3.1.245:2000
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="地方",中国教育
+#EXTINF:-1 tvg-id="CCTV4AEURO" tvg-name="CCTV4EURO" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="央视",中文欧洲
+rtp://239.3.1.213:4220 
+#EXTINF:-1 tvg-id="CCTV4AME" tvg-name="CCTV4AME" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" group-title="央视",中文美洲
+rtp://239.3.1.214:4220 
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="央视",体育赛事
+rtp://239.3.1.130:8004
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="央视",中国教育
 rtp://239.3.1.57:8152
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="国际",CGTN新闻
 rtp://239.3.1.215:4220
