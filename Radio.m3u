@@ -71,6 +71,8 @@ https://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
 #EXTINF:-1 group-title="地方",河北音乐广播
 https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+#EXTINF:-1 group-title="地方",河北文艺广播
+https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 #EXTINF:-1 group-title="地方",BCC中广音乐
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
 #EXTINF:-1 group-title="地方",BCC中广新闻
