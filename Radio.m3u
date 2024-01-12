@@ -17,8 +17,6 @@ http://sk.cri.cn/915.m3u8
 http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="综合广播",CRI环球资讯 
 https://live-play.cctvnews.cctv.com/cctvaudio/hqzx.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/thzs.jpg" group-title="综合广播",CNR台海之声
-http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/nhzs.png" group-title="综合广播",CRI南海之声
 https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cgtnradio.png" group-title="综合广播",CRI英语资讯
@@ -45,6 +43,8 @@ http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/lnzs.png" group-title="综合广播",CNR老年之声
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/thzs.jpg" group-title="综合广播",CNR台海之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/mr.png" group-title="音乐广播",CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TZGBDT.png" group-title="综合广播",台中广播电台
