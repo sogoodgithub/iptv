@@ -33,8 +33,6 @@ http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jjzs.png" group-title="综合广播",CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/mr.png" group-title="音乐广播",CNR音乐之声
-http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cnrgoldenradio.png" group-title="音乐广播",CNR经典音乐 
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/szzs.jpg" group-title="综合广播",CNR神州之声
@@ -47,8 +45,12 @@ http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/lnzs.png" group-title="综合广播",CNR老年之声
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/mr.png" group-title="音乐广播",CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TZGBDT.png" group-title="综合广播",台中广播电台
 http://211.20.119.101:8081
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RTHK.png" group-title="综合广播",RTHK香港电台
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNLYGB.png" group-title="综合广播",湖南旅游广播
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNWYGB.png" group-title="综合广播",湖南文艺广播
@@ -93,12 +95,8 @@ http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553157038145.jpg" group-title="网络广播",安全百科
 http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ipop.png" group-title="境外广播",BCC中广流行
-http://n14.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ZGHYGB.png" group-title="综合广播",中国华艺广播
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ZGHYGB.png" group-title="网络广播",中国华艺广播
 http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/iradio.png" group-title="境外广播",BCC中广音乐
-http://n07.rcs.revma.com/ks4vsmg3qtzuv
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播",潮流音悦台
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="网络广播",80后音悦台
@@ -109,6 +107,10 @@ http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241902428118.png" group-title="网络广播",民谣音乐台
 http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ipop.png" group-title="境外广播",BCC中广流行
+http://n14.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/iradio.png" group-title="境外广播",BCC中广音乐
+http://n07.rcs.revma.com/ks4vsmg3qtzuv
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cityfmtw.png" group-title="境外广播",CityFM台南知音
 http://fm971.cityfm.tw:8080/971.mp3
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/voa.png" group-title="境外广播",美国之音
@@ -141,8 +143,6 @@ http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RTI.png" group-title="境外广播",RTI中央广播
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RTHK.png" group-title="综合广播",RTHK香港电台
-https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="境外广播",半岛新闻
 http://tunein.ord.streamguys1.com/secure-aljazeera-english
 #EXTINF:-1 tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播",CNA亚洲新闻
