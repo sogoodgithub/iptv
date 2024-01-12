@@ -2,9 +2,9 @@
 import fetch from 'node-fetch';
 
 const username = 'sogoodgithub';
-const token = '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';
+const token = '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';
 
-fetch(`https://api.github.com/user/subscriptions?per_page=100`, {
+fetch(`https://api.github.com/users/${username}/subscriptions?per_page=100`, {
         headers: {
             Accept: "application/vnd.github+json",
             Authorization: `token ${token}`
