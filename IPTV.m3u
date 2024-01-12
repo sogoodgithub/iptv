@@ -8,7 +8,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/32212284
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4.png" group-title="央视",CCTV-4
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5.png" group-title="央视",CCTV-5
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6.png" group-title="央视",CCTV-6
@@ -16,7 +16,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV7.png" group-title="央视",CCTV-7
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8.png" group-title="央视",CCTV-8
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
+hhttp://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV9.png" group-title="央视",CCTV-9
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV10.png" group-title="央视",CCTV-10
@@ -181,6 +181,10 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/哈哈炫动.png" group-title="地方",哈哈炫动
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="http://live.cooltv.top/logo/qcxj.png" group-title="地方",七彩戏剧
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="SiTV乐游" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/乐游频道.png" group-title="地方",乐游频道
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001200/index.m3u8?love=freedom
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV动漫秀场.png" group-title="地方",动漫秀场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV欢笑剧场.png" group-title="地方",欢笑剧场
@@ -197,8 +201,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="数字",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="1976" tvg-name="SiTV乐游" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/乐游频道.png" group-title="数字",乐游频道
-http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001200/index.m3u8?love=freedom
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索动物.png" group-title="数字",求索动物
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索生活.png" group-title="数字",求索生活
@@ -237,5 +239,3 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CHC高清电影.png" group-title="数字",高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="数字",华数超清
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId
