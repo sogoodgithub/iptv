@@ -47,24 +47,14 @@ https://0472.org/hls/youzaiSB/fhzx.m3u8
 https://0472.org/hls/youzaiSB/fhhk.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeeraEnglish" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="国际",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-#EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",FOX新闻
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="bbcamerica" tvg-name="america" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="国际",BBC美洲
-https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://epg.112114.xyz/logo/CBS.png" group-title="国际",CBS新闻
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us" tvg-name="CBNNews" tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="国际",CBN新闻
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="国际",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际",GB新闻
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="CanadaGlobalNews" tvg-name="CanadaGlobalNews" tvg-logo="https://epg.112114.xyz/logo/GLOBALNEWS.png" group-title="国际",CG新闻
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="国际",RT新闻
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="国际",RT纪录
