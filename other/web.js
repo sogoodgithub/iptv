@@ -1,5 +1,5 @@
 const username = 'sogoodgithub';
-const token = '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';
+const token = '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';
 const key = "description";
 const value = "iptv".toLowerCase();
 
