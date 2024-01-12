@@ -47,10 +47,10 @@ http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/lnzs.png" group-title="综合广播",CNR老年之声
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TZGBDT.png" group-title="综合广播",台中广播电台
+http://211.20.119.101:8081
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNLYGB.png" group-title="综合广播",湖南旅游广播
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNYYZS.png" group-title="综合广播",湖南音乐之声
-http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNWYGB.png" group-title="综合广播",湖南文艺广播
 https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/shgsgb.png" group-title="综合广播",上海故事广播
@@ -63,6 +63,8 @@ http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jsyygb.png" group-title="音乐广播",江苏音乐广播
 http://live.cooltv.top/tv/ytradio.php?id=415
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNYYZS.png" group-title="音乐广播",湖南音乐之声
+http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/JSGSGB.png" group-title="综合广播",江苏故事广播
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/gdyy.png" group-title="音乐广播",广东音乐之声
@@ -97,8 +99,6 @@ http://n14.rcs.revma.com/aw9uqyxy2tzuv
 http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/iradio.png" group-title="境外广播",BCC中广音乐
 http://n07.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TZGBDT.png" group-title="境外广播",台中广播电台
-http://211.20.119.101:8081
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播",潮流音悦台
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="网络广播",80后音悦台
