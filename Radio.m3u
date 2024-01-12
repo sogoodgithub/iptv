@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="北京",北京新闻广播
-http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 group-title="北京",北京文艺广播
 http://ls.qingting.fm/live/333.m3u8
 #EXTINF:-1 group-title="北京",北京交通广播
@@ -23,8 +21,6 @@ http://sk.cri.cn/hyhq.m3u8
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 group-title="北京",CRI英语环球
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 group-title="北京",CRI英语教学
-http://sk.cri.cn/am1008.m3u8
 #EXTINF:-1 group-title="北京",CRI HIT FM
 https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8北京
 #EXTINF:-1 group-title="央广",CNR交通广播
