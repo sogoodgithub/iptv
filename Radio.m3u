@@ -143,7 +143,7 @@ http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RTI.png" group-title="境外广播",RTI中央广播
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="境外广播",半岛新闻
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="境外广播",半岛新闻
 http://tunein.ord.streamguys1.com/secure-aljazeera-english
 #EXTINF:-1 tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播",CNA亚洲新闻
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
