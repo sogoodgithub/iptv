@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/ed/47/ed47d05aa9bd728f1bf9802dac2519a6.png" group-title="综合广播",北京交通广播
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="综合广播",北京交通广播
 http://ls.qingting.fm/live/336.m3u8
-#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/e0/93/e093b7fca0bbbfd9c3eb36c310356625.png" group-title="综合广播",北京新闻广播
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJXWGB.png" group-title="综合广播",北京新闻广播
 http://ls.qingting.fm/live/339.m3u8
-#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2020/0404/01/e0/01e0ecc431332c970da282153b0cc52a.png" group-title="综合广播",北京文艺广播
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BWYSGB.png" group-title="综合广播",北京文艺广播
 http://ls.qingting.fm/live/333.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj974.png" group-title="音乐广播",北京音乐广播
 http://ls.qingting.fm/live/332.m3u8
-#EXTINF:-1 tvg-logo="https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2022/0310/54/8f/548fedacacbd471dc3e4f22a68af3816.png" group-title="综合广播",北京城市广播
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJCSGB.png" group-title="综合广播",北京城市广播
 http://satellitepull.cnr.cn/live/wxbjcsfwgl/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj969.png" group-title="音乐广播",北京经典调频
 http://live.funhillrm.com/4/sd/live.m3u8
