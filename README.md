@@ -18,3 +18,6 @@ git commit -m "Commit message"
 
 bash
 git merge --continue
+
+
+可能您将令牌提交到GitHub存储库。如果是这种情况，Github将立即删除令牌。因此您需要将令牌设置为系统中的可变环境。

@@ -1,8 +1,10 @@
 // const fetch = require('node-fetch');
+import token from '../other/token.js';
 import fetch from 'node-fetch';
 
 const username = 'sogoodgithub';
-const token = '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';
+console.log(token);
+// const token = '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';
 const key = "description";
 const value = "iptv".toLowerCase();
 

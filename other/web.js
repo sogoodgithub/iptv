@@ -1,4 +1,5 @@
 const username = 'sogoodgithub';
+//带token的文件不能上传到git，所以要临时从 token.js拷贝（token.js不会上传）
 const token = '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';
 const key = "description";
 const value = "iptv".toLowerCase();
