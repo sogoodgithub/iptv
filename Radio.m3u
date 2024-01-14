@@ -71,6 +71,32 @@ http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b8
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/gdyy.png" group-title="音乐广播",广东音乐之声
 http://live.cooltv.top/tv/ytradio.php?id=489
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="音乐广播",Hit FM劲曲
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njyygb.png" group-title="音乐广播",南京音乐广播
+http://hls.njgb.com/live_hls/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hbqcyyt.png" group-title="音乐广播",河北汽车音乐
+https://radio.pull.hebtv.com/live/hebqcyy.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/sx988.png" group-title="音乐广播",陕西音乐广播
+http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 tvg-id="广州汽车音乐电台" tvg-name="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1GGmaZ_550x550.jpg" group-title="音乐广播",广州汽车音乐
+https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
+#EXTINF:-1 tvg-id="深圳音乐广播" tvg-name="音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="音乐广播",深圳音乐广播
+https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8
+#EXTINF:-1 tvg-logo="https://ytmedia.radio.cn/CCYT%2F202207%2F18%2F11%2Ff2022071811624.jpg" group-title="音乐广播",宜昌音生广播
+http://play.3xgd.com/fm/qct.m3u8
+#EXTINF:-1 tvg-logo="http://pic.qtfm.cn/2022/1212/20221212113007.jpeg" group-title="音乐广播",江西故事广播
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
+#EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2021/0324/20210324095429.png" group-title="音乐广播",青岛摩音调频
+http://video11.qtv.com.cn/zhibo886/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",上海音乐广播
+http://live.cooltv.top/tv/news1296.php?id=8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/kfm.png" group-title="音乐广播",上海音乐电台
+http://live.cooltv.top/tv/news1296.php?id=9
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="音乐广播",Love Radio
+http://live.cooltv.top/tv/news1296.php?id=7
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="音乐广播",上海流行音乐
+http://live.cooltv.top/tv/news1296.php?id=4
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ctyygb.png" group-title="音乐广播",楚天音乐广播
 http://live.cooltv.top/tv/ytradio.php?id=533
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0225/20150225111148873.png" group-title="音乐广播",广西音乐广播
