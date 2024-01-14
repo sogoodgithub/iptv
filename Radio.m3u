@@ -87,8 +87,6 @@ https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8
 http://play.3xgd.com/fm/qct.m3u8
 #EXTINF:-1 tvg-logo="http://pic.qtfm.cn/2022/1212/20221212113007.jpeg" group-title="音乐广播",江西故事广播
 http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
-#EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2021/0324/20210324095429.png" group-title="音乐广播",青岛摩音调频
-http://video11.qtv.com.cn/zhibo886/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",上海音乐广播
 http://live.cooltv.top/tv/news1296.php?id=8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/kfm.png" group-title="音乐广播",上海音乐电台
@@ -97,10 +95,6 @@ http://live.cooltv.top/tv/news1296.php?id=9
 http://live.cooltv.top/tv/news1296.php?id=7
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="音乐广播",上海流行音乐
 http://live.cooltv.top/tv/news1296.php?id=4
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ctyygb.png" group-title="音乐广播",楚天音乐广播
-http://live.cooltv.top/tv/ytradio.php?id=533
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0225/20150225111148873.png" group-title="音乐广播",广西音乐广播
-http://live.cooltv.top/tv/ytradio.php?id=590
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ynyygb.png" group-title="音乐广播",云南音乐广播
 http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="综合广播",河北文艺广播
