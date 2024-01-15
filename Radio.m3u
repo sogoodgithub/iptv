@@ -71,12 +71,32 @@ http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b8
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/gdyy.png" group-title="音乐广播",广东音乐之声
 http://live.cooltv.top/tv/ytradio.php?id=489
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ctyygb.png" group-title="音乐广播",楚天音乐广播
-http://live.cooltv.top/tv/ytradio.php?id=533
-#EXTINF:-1 tvg-logo="https://pic.qingting.fm/2015/0225/20150225111148873.png" group-title="音乐广播",广西音乐广播
-http://live.cooltv.top/tv/ytradio.php?id=590
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ynyygb.png" group-title="音乐广播",云南音乐广播
-http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="音乐广播",Hit FM劲曲
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njyygb.png" group-title="音乐广播",南京音乐广播
+http://hls.njgb.com/live_hls/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hbqcyyt.png" group-title="音乐广播",河北汽车音乐
+https://radio.pull.hebtv.com/live/hebqcyy.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/sx988.png" group-title="音乐广播",陕西音乐广播
+http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 tvg-id="广州汽车音乐电台" tvg-name="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1GGmaZ_550x550.jpg" group-title="音乐广播",广州汽车音乐
+https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
+#EXTINF:-1 tvg-id="深圳音乐广播" tvg-name="音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="音乐广播",深圳音乐广播
+https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8
+#EXTINF:-1 tvg-logo="https://ytmedia.radio.cn/CCYT%2F202207%2F18%2F11%2Ff2022071811624.jpg" group-title="音乐广播",宜昌音生广播
+http://play.3xgd.com/fm/qct.m3u8
+#EXTINF:-1 tvg-logo="http://pic.qtfm.cn/2022/1212/20221212113007.jpeg" group-title="音乐广播",江西故事广播
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",上海音乐广播
+http://live.cooltv.top/tv/news1296.php?id=8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/kfm.png" group-title="音乐广播",上海音乐电台
+http://live.cooltv.top/tv/news1296.php?id=9
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="音乐广播",Love Radio
+http://live.cooltv.top/tv/news1296.php?id=7
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="音乐广播",上海流行音乐
+http://live.cooltv.top/tv/news1296.php?id=4
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njcoolradio.png" group-title="音乐广播",Cool Radio
+http://hls.njgb.com/live_hls/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="综合广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241848889285.png" group-title="网络广播",天籁古典
@@ -143,7 +163,7 @@ http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RTI.png" group-title="境外广播",RTI中央广播
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="境外广播",半岛新闻
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="境外广播",半岛新闻
 http://tunein.ord.streamguys1.com/secure-aljazeera-english
 #EXTINF:-1 tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播",CNA亚洲新闻
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
