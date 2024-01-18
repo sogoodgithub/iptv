@@ -61,7 +61,7 @@ http://38.96.178.201:80/live/USA/index.m3u8
 http://38.96.178.201/live/NBA/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="国际",KBS世界
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 group-title="国际",FoodNetwork
+#EXTINF:-1 group-title="国际",Food Network
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 #EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" group-title="国际",ESPN新闻
 http://38.96.178.201:80/live/ESPNews/index.m3u8
