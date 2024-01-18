@@ -21,7 +21,7 @@ http://38.96.178.201/live/NBA/index.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" tvg-logo="https://epg.112114.xyz/logo/ESPNNEWS.png" group-title="国际",ESPN新闻
 http://38.96.178.201:80/live/ESPNews/index.m3u8
-#EXTINF:-1 tvg-id="CBS News New York" tvg-name="CBS News New York" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.PNG" group-title="国际",CBS新闻
+#EXTINF:-1 tvg-id="CBS News New York" tvg-name="CBS News New York" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="国际",CBS新闻
 http://38.96.178.201:80/live/CBS/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" tvg-logo="Animal Planet" group-title="国际",Animal Planet
 http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
