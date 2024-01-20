@@ -9,7 +9,7 @@ http://38.96.178.201/live/NBCHD/index.m3u8
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="国际",BBC美洲
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
-#EXTINF:-1  tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABC新闻
+#EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABC新闻
 http://38.96.178.201:80/live/ABCHD/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.112114.xyz/logo/TNT.png" group-title="国际",TNT
 http://38.96.178.201:80/live/TNTHD/index.m3u8
@@ -23,7 +23,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 http://38.96.178.201:80/live/ESPNews/index.m3u8
 #EXTINF:-1 tvg-id="CBS News New York" tvg-name="CBS News New York" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="国际",CBS新闻
 http://38.96.178.201:80/live/CBS/index.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" tvg-logo="Animal Planet" group-title="国际",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际",Animal Planet
 http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://epg.112114.xyz/logo/COMEDY.png" group-title="国际",Comedy Central
 http://38.96.178.201:80/live/ComedyCentral/index.m3u8
@@ -33,13 +33,13 @@ http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 http://38.96.178.201:80/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney
 http://38.96.178.201:80/live/Disney/index.m3u8
-#EXTINF:-1 tvg-id="History" tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="国际",History
+#EXTINF:-1 tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="国际",History
 http://38.96.178.201:80/live/History/index.m3u8
 #EXTINF:-1 group-title="国际",Disney XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
-#EXTINF:-1 group-title="国际"民视新闻
+#EXTINF:-1 group-title="国际",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title=“国际",TVBS新闻
+#EXTINF:-1 group-title="未分类",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="国际",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
