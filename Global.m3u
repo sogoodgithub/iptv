@@ -38,7 +38,7 @@ http://38.96.178.201:80/live/History/index.m3u8
 #EXTINF:-1 group-title="国际",Disney XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
 #EXTINF:-1 group-title="国际"民视新闻
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title=“国际",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="国际",TVBS亚洲
