@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN新闻
-http://38.96.178.201:80/live/CNNHD/index.m3u8
+https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="12188" tvg-name="bbc news" tvg-logo="https://epg.112114.xyz/logo/uk/bbc-world-news.png" group-title="国际",BBC新闻
 https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
 #EXTINF:-1 tvg-id="nbcnews" tvg-name="nbcnews" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="国际",NBC新闻
