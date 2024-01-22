@@ -25,7 +25,7 @@ http://38.96.178.201:80/live/ESPNews/index.m3u8
 http://38.96.178.201:80/live/CBS/index.m3u8
 #EXTINF:-1 tvg-id="CBSSports" tvg-name="CBSSports" tvg-logo="https://epg.112114.xyz/logo/CBSSPORTS.png" group-title="国际",CBS体育
 http://38.96.178.201:80/live/CBSSPORTS/index.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://epg.112114.xyz/logo/TennisChannel.png" group-title="国际",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://epg.112114.xyz/logo/TENNISCHANNEL.png" group-title="国际",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际",Animal Planet
 http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
