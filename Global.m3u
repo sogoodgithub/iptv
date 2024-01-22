@@ -37,14 +37,6 @@ http://38.96.178.201:80/live/Discovery/index.m3u8
 http://38.96.178.201:80/live/Disney/index.m3u8
 #EXTINF:-1 tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="国际",History
 http://38.96.178.201:80/live/History/index.m3u8
-#EXTINF:-1 group-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="国际", 民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-id="TVBS亚洲" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="国际", TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-id="TVBS亚洲" tvg-name="tvbs亚洲" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png" group-title="国际", TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="国际", 台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际",凤凰资讯
@@ -82,4 +74,4 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1071.ts
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="nationalgeographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="国际",国家地理
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2037.ts
 #EXTINF:-1 tvg-id="nationalgeographicwild" tvg-name="nationalgeographicwild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="国际",国地野生
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2047.ts
+http://livetvbox.live:8080/live/456789/456789/9401.ts
