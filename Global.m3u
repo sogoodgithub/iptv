@@ -31,11 +31,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://38.96.178.201:80/live/ComedyCentral/index.m3u8
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://epg.112114.xyz/logo/FOOD.png" group-title="国际",Food Network
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="国际",Discovery
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="国际",Discovery Channel
 http://38.96.178.201:80/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DiscoveryKids" tvg-logo="https://epg.112114.xyz/logo/DK.png" group-title="国际",Discovery Kids
 http://voz.one:80/alexfnt/vTFBGKdUYq/13865
-#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney Channel
 http://38.96.178.201:80/live/Disney/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="国际",Star Movies
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
