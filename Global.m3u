@@ -33,10 +33,14 @@ http://38.96.178.201:80/live/ComedyCentral/index.m3u8
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="国际",Discovery
 http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DiscoveryKids" tvg-logo="https://live.fanmingming.com/tv/discoverykids.png" group-title="国际",Discovery Kids
+http://voz.one:80/alexfnt/vTFBGKdUYq/13865
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney
 http://38.96.178.201:80/live/Disney/index.m3u8
 #EXTINF:-1 tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="国际",History
 http://38.96.178.201:80/live/History/index.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://live.fanmingming.com/tv/mtv.png" group-title="国际",MTV
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2062.ts
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际",凤凰资讯
