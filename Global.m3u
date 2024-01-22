@@ -23,8 +23,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 http://38.96.178.201:80/live/ESPNews/index.m3u8
 #EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="国际",CBS新闻
 http://38.96.178.201:80/live/CBS/index.m3u8
-#EXTINF:-1 tvg-id="CBSSports" tvg-name="CBSSports" tvg-logo="https://epg.112114.xyz/logo/CBSSPORTS.png" group-title="国际",CBS体育
-http://38.96.178.201:80/live/CBSSPORTS/index.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://epg.112114.xyz/logo/TBS.png" group-title="国际",TBS
+http://38.96.178.201:80/live/TBS/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://epg.112114.xyz/logo/TENNISCHANNEL.png" group-title="国际",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际",Animal Planet
