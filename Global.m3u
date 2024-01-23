@@ -45,7 +45,7 @@ http://38.96.178.201:80/live/PBSKIDS/index.m3u8
 http://38.96.178.201:80/live/Disney/index.m3u8
 #EXTINF:-1 group-title="国际",Cartoon Network
 http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="国际",Disney XD
+#EXTINF:-1,tvg-id="Disney,XD",tvg-name="Disney,XD",tvg-logo="https://epg.112114.xyz/logo/disneyxd.png",group-title="国际",Disney,XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
 #EXTINF:-1 group-title="国外",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
@@ -93,6 +93,8 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="StartSports1" tvg-name="StartSports1" tvg-logo="https://live.fanmingming.com/tv/starsports.png" group-title="国际",Star Sports
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2292.ts
+#EXTINF:-1 group-title="国外",Fox Sports
+http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-name="nationalgeographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="国际",国家地理
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2037.ts
 #EXTINF:-1 tvg-id="nationalgeographicwild" tvg-name="nationalgeographicwild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="国际",国地野生
