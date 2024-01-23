@@ -15,7 +15,7 @@ http://38.96.178.201:80/live/ABCHD/index.m3u8
 http://38.96.178.201:80/live/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://epg.112114.xyz/logo/USA.png" group-title="国际",USA
 http://38.96.178.201:80/live/USA/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO
+#EXTINF:-1 group-title="国际",HBO
 http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="国际",NBA
 http://38.96.178.201/live/NBA/index.m3u8
@@ -47,9 +47,9 @@ http://38.96.178.201:80/live/Disney/index.m3u8
 http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,tvg-id="Disney,XD",tvg-name="Disney,XD",tvg-logo="https://epg.112114.xyz/logo/disneyxd.png",group-title="国际",Disney,XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
-#EXTINF:-1 group-title="国外",Fashion TV
+#EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="国外",Cinemax
+#EXTINF:-1 group-title="国际",Cinemax
 http://94.156.33.91:80/Cinemax/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="国际",Star Movies
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
