@@ -19,8 +19,6 @@ http://38.96.178.201:80/live/TNTHD/index.m3u8
 http://38.96.178.201:80/live/USA/index.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="国际",NBA
 http://38.96.178.201/live/NBA/index.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://epg.112114.xyz/logo/TB.png" group-title="国际",TBS
-http://38.96.178.201:80/live/TBS/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际",凤凰资讯
@@ -87,12 +85,6 @@ http://54.39.17.6/eurosport/mono.m3u8
 http://23.237.98.42:8080/USA_CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="国际",动物星球
-http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
-#EXTINF:-1 group-title="国际",国家地理
-http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-#EXTINF:-1 group-title="国际",TBS体育
-http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN 2
 http://38.96.178.201:80/live/ESPN2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="国际",Star Movies
