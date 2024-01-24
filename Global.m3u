@@ -77,8 +77,22 @@ http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
 #EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="国际",NASA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="国际",ESPN HD
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+#EXTINF:-1 group-title="国际",Euro News
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 group-title="国际",Euro Sport
+http://54.39.17.6/eurosport/mono.m3u8
+#EXTINF:-1 group-title="国际",CNBC
+http://23.237.98.42:8080/USA_CNBC/index.m3u8
+#EXTINF:-1 group-title="国际",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="国际",动物星球
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+#EXTINF:-1 group-title="国际",国家地理
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+#EXTINF:-1 group-title="国际",TBS体育
+http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN 2
 http://38.96.178.201:80/live/ESPN2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="国际",Star Movies
