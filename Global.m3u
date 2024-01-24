@@ -95,3 +95,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 http://38.96.178.201:80/live/History/index.m3u8
 #EXTINF:-1 tvg-id="SYFY" tvg-logo="https://epg.112114.xyz/logo/SYFY.png" group-title="国际",SYFY
 http://38.96.178.201:80/live/SYFYHD/index.m3u8
+#EXTINF:-1 group-title="国际", Rakuten Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="国际", Cinevault:80's
+https://lnc-cinevault-80s.tubi.video/3000.m3u8
