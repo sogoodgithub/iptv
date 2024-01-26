@@ -11,6 +11,8 @@ http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 http://38.96.178.201:80/live/ABCHD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" tvg-logo="https://epg.112114.xyz/logo/ESPNNEWS.png" group-title="国际",ESPN新闻
 http://38.96.178.201:80/live/ESPNews/index.m3u8
+#EXTINF:-1 group-title="国际",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="国际",CBS新闻
 http://38.96.178.201:80/live/CBS/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.112114.xyz/logo/TNT.png" group-title="国际",TNT
@@ -79,8 +81,6 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="国际",Euro News
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1 group-title="国际",Euro Sport
-http://54.39.17.6/eurosport/mono.m3u8
 #EXTINF:-1 group-title="国际",CNBC
 http://23.237.98.42:8080/USA_CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",Fight Network
