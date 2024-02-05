@@ -101,8 +101,6 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #EXTINF:-1 group-title="国际",AMC
 http://170.254.18.106/AMC/index.m3u8
-#EXTINF:-1 group-title="国际",STAR
-http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 group-title="国际",A&E
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 #EXTINF:-1 group-title="国际",HBO
