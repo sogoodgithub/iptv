@@ -5,9 +5,9 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10819
 #EXTINF:-1 tvg-id="12188" tvg-name="bbc news" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC News
 https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
-#EXTINF:-1 tvg-id="Foxnews" tvg-name="Foxnews" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际",Fox News
+#EXTINF:-1 tvg-id="Foxnews" tvg-name="Foxnews" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际",FOX News
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
-#EXTINF:-1  tvg-id="Foxnewyork" tvg-name="Foxnewyork" tvg-logo="https://epg.112114.xyz/logo/FOX5.png" group-title="国际",Fox New York
+#EXTINF:-1  tvg-id="Foxnewyork" tvg-name="Foxnewyork" tvg-logo="https://epg.112114.xyz/logo/FOX5.png" group-title="国际",FOX New York
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="国际",BBC America
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
@@ -55,8 +55,6 @@ https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/11/22/large/20171122201848751840_29.jpg" group-title="国际",Fox Sports
-http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
 #EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://epg.112114.xyz/logo/KBSNEWS.png" group-title="国际",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arirangtv.png" group-title="国际",Arirang 
@@ -131,7 +129,7 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10827
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10828
 #EXTINF:-1 group-title="国际",FOX Sports 1
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10839
-#EXTINF:-1 group-title="国际",FOX Sports 2
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/11/22/large/20171122201848751840_29.jpg" group-title="国际",FOX Sports 2
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10840
 #EXTINF:-1 group-title="国际",HBO
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
