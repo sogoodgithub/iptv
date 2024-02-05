@@ -91,14 +91,34 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 http://bziyunshao.synology.me:8889/bysid/1
 #EXTINF:-1 group-title="国际",明珠台
 http://bziyunshao.synology.me:8890/bysid/2
+#EXTINF:-1 group-title="国际",ViuTVsix
+http://bziyunshao.synology.me:8889/bysid/96
+#EXTINF:-1 group-title="国际",ViuTV
+http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1 group-title="国际",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="国际",奇妙电视
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
+#EXTINF:-1 group-title="国际",AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 group-title="国际",STAR
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 group-title="国际",A&E
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 #EXTINF:-1 group-title="国际",HBO
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
+#EXTINF:-1 group-title="国际",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 group-title="国际",HBO 2
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 group-title="国际",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="国际",Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 #EXTINF:-1 group-title="国际",EZTV 1
 http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1 group-title="国际",EZTV 2
