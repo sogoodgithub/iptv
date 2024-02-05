@@ -1,10 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CNNinternational" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN International
+#EXTINF:-1 tvg-name="CNNinternational" tvg-logo="https://epg.112114.xyz/logo/CNN国际.png" group-title="国际",CNN International
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-name="CNNinternational" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10819
 #EXTINF:-1 tvg-id="12188" tvg-name="bbc news" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC News
 https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
 #EXTINF:-1 tvg-id="Foxnews" tvg-name="Foxnews" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际",Fox News
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
+#EXTINF:-1  tvg-id="Foxnewyork" tvg-name="Foxnewyork" tvg-logo="https://epg.112114.xyz/logo/FOX5.png" group-title="国际",Fox New York
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10836
 #EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="国际",BBC America
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 #EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABC HD
@@ -111,3 +115,35 @@ http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LS.png" group-title="国际",Love Stories
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+#EXTINF:-1 group-title="国际",翡翠台
+http://bziyunshao.synology.me:8889/bysid/1
+#EXTINF:-1 group-title="国际",明珠台
+http://bziyunshao.synology.me:8890/bysid/2
+#EXTINF:-1 group-title="国际",HOY TV
+http://51.89.21.73:27347/livehttpplay?channel_id=20152
+#EXTINF:-1 group-title="国际",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
+#EXTINF:-1 group-title="国际",Discovery Family
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10826
+#EXTINF:-1 group-title="国际",Discovery ID
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10827
+#EXTINF:-1 group-title="国际",Discovery Science
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10828
+#EXTINF:-1 group-title="国际",FOX Sports 1
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10839
+#EXTINF:-1 group-title="国际",FOX Sports 2
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10840
+#EXTINF:-1 group-title="国际",HBO
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
+#EXTINF:-1 group-title="国际",HBO 2
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
+#EXTINF:-1 group-title="国际",HBO Family
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10851
+#EXTINF:-1 group-title="国际",HBO West
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
+#EXTINF:-1 group-title="国际",欧华1台
+http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+#EXTINF:-1 group-title="国际",欧华2台
+http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1 group-title="国际",Cinemax East
