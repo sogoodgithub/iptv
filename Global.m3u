@@ -123,7 +123,6 @@ http://bziyunshao.synology.me:8890/bysid/2
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #EXTINF:-1 group-title="国际",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 #EXTINF:-1 group-title="国际",Discovery Family
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10826
 #EXTINF:-1 group-title="国际",Discovery ID
@@ -147,3 +146,4 @@ http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac
 #EXTINF:-1 group-title="国际",欧华2台
 http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 #EXTINF:-1 group-title="国际",Cinemax East
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
