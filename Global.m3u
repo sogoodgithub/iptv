@@ -95,8 +95,6 @@ http://38.96.178.201/live/NBA/index.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LiExax0.png" group-title="国际",Football
 http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="国际",ESPN 2
-http://38.96.178.201:80/live/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="国际",History
 http://38.96.178.201:80/live/History/index.m3u8
 #EXTINF:-1 tvg-id="SYFY" tvg-logo="https://epg.112114.xyz/logo/SYFY.png" group-title="国际",SYFY
@@ -113,6 +111,8 @@ http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LS.png" group-title="国际",Love Stories
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+#EXTINF:-1 group-title="国际",Cinemax East
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 #EXTINF:-1 group-title="国际",翡翠台
 http://bziyunshao.synology.me:8889/bysid/1
 #EXTINF:-1 group-title="国际",明珠台
@@ -135,13 +135,7 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10840
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 #EXTINF:-1 group-title="国际",HBO 2
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
-#EXTINF:-1 group-title="国际",HBO Family
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10851
-#EXTINF:-1 group-title="国际",HBO West
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
-#EXTINF:-1 group-title="国际",欧华1台
+#EXTINF:-1 group-title="国际",EZTV 1
 http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-#EXTINF:-1 group-title="国际",欧华2台
+#EXTINF:-1 group-title="国际",EZTV 2
 http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-#EXTINF:-1 group-title="国际",Cinemax East
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
