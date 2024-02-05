@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1,🔞 Visit X tv
+#EXTINF:-1,🔞 Visit X  
 http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1911927332.m3u8
 #EXTINF:-1,🔞 Private
 http://146.59.54.163/356/playlist.m3u8
-#EXTINF:-1,🔞 Hustler HD
+#EXTINF:-1,🔞 Hustler 
 http://89.187.179.242:1578
-#EXTINF:-1,🔞 Venus tv
-http://45.226.67.3:58001/play/a01x/index.m3u8
-#EXTINF:-1,🔞 SeXtreme
-http://200.69.87.250:12500/play/a056/index.m3u8
 #EXTINF:-1,🔞 Erox
 http://178.219.128.68:64888/EROXHD
-#EXTINF:-1,🔞 Dorcel tv
+#EXTINF:-1,🔞 Dorcel 
 http://146.59.54.163/345/index.m3u8
 #EXTINF:-1,🔞 Redlight
 http://cdnx1.plusx.tv:8880/358/mono.m3u8?token=65df4b105d30b4b9573333
