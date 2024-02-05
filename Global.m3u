@@ -107,6 +107,8 @@ http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 #EXTINF:-1 group-title="国际",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 group-title="国际",HBO West
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
 #EXTINF:-1 group-title="国际",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Family
