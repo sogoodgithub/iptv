@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN HD
+#EXTINF:-1 tvg-name="CNNinternational" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN International
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="12188" tvg-name="bbc news" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC News
 https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
-#EXTINF:-1 tvg-id="FoxHD" tvg-name="FoxHD" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际",Fox News
-http://38.96.178.201:80/live/FOXHD/index.m3u8
+#EXTINF:-1 tvg-id="Foxnews" tvg-name="Foxnews" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际",Fox News
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10838
 #EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="国际",BBC America
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 #EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABC HD
@@ -84,7 +84,7 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="国际",ESPN HD
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.112114.xyz/logo/TNT.png" group-title="国际",TNT
-http://38.96.178.201:80/live/TNTHD/index.m3u8
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10887
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://epg.112114.xyz/logo/USA.png" group-title="国际",USA
 http://38.96.178.201:80/live/USA/index.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="国际",NBA
