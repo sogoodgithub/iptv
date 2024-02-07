@@ -5,6 +5,8 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
 #EXTINF:-1  tvg-id="Foxnewyork" tvg-name="Foxnewyork" tvg-logo="https://epg.112114.xyz/logo/FOX5.png" group-title="国际",FOX New York
 http://38.96.178.201:80/live/FOXHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9vL97LY/download-7.jpg" group-title="国际",Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="国际",BBC America
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 #EXTINF:-1 tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABC News
