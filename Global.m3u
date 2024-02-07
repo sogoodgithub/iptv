@@ -57,6 +57,8 @@ http://38.96.178.201:80/live/Discovery/index.m3u8
 http://38.96.178.201:80/live/PBSKIDS/index.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney Channel
 http://38.96.178.201:80/live/Disney/index.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney International
+http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1,tvg-id="Disney,XD",tvg-name="Disney,XD",tvg-logo="https://epg.112114.xyz/logo/DISNEYXD.png",group-title="国际",Disney XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/1_190.jpg" group-title="国际",Cartoon Network
@@ -103,6 +105,8 @@ http://170.254.18.106/HBO2/index.m3u8
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 group-title="国际",&Flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Wild Planet
