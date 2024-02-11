@@ -5,6 +5,8 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
 #EXTINF:-1  tvg-id="Foxnewyork" tvg-name="Foxnewyork" tvg-logo="https://epg.112114.xyz/logo/FOX5.png" group-title="国际",FOX New York
 http://38.96.178.201:80/live/FOXHD/index.m3u8
+#EXTINF:-1  tvg-id="Foxnews" tvg-name="Foxnews" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际",FOX News
+http://38.96.178.201:80/live/FOXNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LNF.png" group-title="国际",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/OAN.png" group-title="国际",One America News
@@ -19,8 +21,6 @@ http://38.96.178.201:80/live/ESPNews/index.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="国际",CBS News
 http://38.96.178.201:80/live/CBS/index.m3u8
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png" group-title="国际",Euronews
-https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 #EXTINF:-1 tvg-id="DubaiONe" tvg-name="DubaiOne" tvg-logo="https://i.ibb.co/ZMpn1rR/IMG-20240126-093957.png" group-title="国际",Dubai One 
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeeraEnglish" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="国际",Al Jazeera
