@@ -9,6 +9,8 @@ http://38.96.178.201:80/live/FOXHD/index.m3u8
 http://38.96.178.201:80/live/FOXNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LNF.png" group-title="国际",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="nbcnewyork" tvg-name="nbcnewyork" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="国际",NBC New York
+http://38.96.178.201/live/NBCHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/OAN.png" group-title="国际",One America News
 http://n1.klowdtv.net/live1/oan_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="国际",BBC America
