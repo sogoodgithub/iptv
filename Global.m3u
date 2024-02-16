@@ -89,7 +89,7 @@ http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 #EXTINF:-1 group-title="国际",Universal Televison
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="国际",HoyTV
+#EXTINF:-1 group-title="国际",Hoy TV
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #EXTINF:-1 group-title="国际",AMC
 http://170.254.18.106/AMC/index.m3u8
