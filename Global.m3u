@@ -71,6 +71,8 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="国际",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="KBSWORLD" tvg-name="KBSWORLD" tvg-logo="https://epg.112114.xyz/logo/KBSW.png" group-title="国际",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="国际",NBA
 http://38.96.178.201/live/NBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FN.png" group-title="国际",Fight Network
