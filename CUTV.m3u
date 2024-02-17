@@ -117,5 +117,5 @@ rtp://239.3.1.188:8001
 rtp://239.3.1.221:8001
 #EXTINF:-1 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://upload.112114.xyz/logo/ASH4K.png" group-title="地方",爱上4K
 rtp://239.3.1.236:2000
-#EXTINF:-1 #EXTINF:-1 tvg-id="4K超清" tvg-name="4K超清" tvg-logo="https://upload.112114.xyz/logo/4KCQ.png" group-title="地方",4K超清  
+#EXTINF:-1 #EXTINF:-1 tvg-id="4K超清" tvg-name="4K超清" tvg-logo="https://epg.112114.xyz/logo/北京PTV4K.png" group-title="地方",4K超清  
 rtp://239.3.1.249:8001
