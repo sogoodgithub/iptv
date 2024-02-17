@@ -111,3 +111,17 @@ rtp://239.3.1.212:8060
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/快乐垂钓.png" group-title="地方",快乐垂钓
 rtp://239.3.1.164:8001
+#EXTINF:-1 group-title="未分类",北京IPTV 4K超清  
+rtp://239.3.1.249:8001
+#EXTINF:-1 group-title="未分类",爱上4K 
+rtp://239.3.1.236:2000
+#EXTINF:-1 group-title="未分类",北京IPTV 萌宠TV 
+rtp://239.3.1.102:8001
+#EXTINF:-1 group-title="未分类",北京IPTV 淘电影 
+rtp://239.3.1.250:8001
+#EXTINF:-1 group-title="未分类",北京IPTV 淘娱乐  
+rtp://239.3.1.100:8001
+#EXTINF:-1 group-title="未分类",北京IPTV 淘剧场 
+rtp://239.3.1.95:8001
+#EXTINF:-1 group-title="未分类",北京IPTV 淘Baby 
+rtp://239.3.1.238:8001
