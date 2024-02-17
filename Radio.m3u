@@ -8,7 +8,7 @@ http://ls.qingting.fm/live/333.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj974.png" group-title="音乐广播",北京音乐广播
 http://ls.qingting.fm/live/332.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJCSGB.png" group-title="综合广播",北京城市广播
-https://brtv-radiolive.rbc.cn/alive/fm1073.m3u
+https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/JTYGB.png" group-title="综合广播",北京体育广播
 https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj969.png" group-title="音乐广播",北京经典调频
