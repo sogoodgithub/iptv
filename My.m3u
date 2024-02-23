@@ -19,17 +19,17 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 tvg-id="Fashion TV 3" tvg-name="Fashion TV 3" tvg-logo="https://epg.112114.xyz/logo/FASHIONONE.png" group-title="Fashion",Fashion TV 3
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/TVBNEWS.png" group-title="国际",无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="国际",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="国际",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="国际",TVBS HD
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="国际",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="国际",八大戏剧
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 #EXTINF:-1 group-title="国际",东森戏剧
 http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/TVBNEWS.png" group-title="国际",无线新闻
-http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="国际",TVBS HD
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
