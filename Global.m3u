@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",NBC
+http://41.205.93.154/NBC/index.m3u8
 #EXTINF:-1 group-title="国际",One America News
 http://n1.klowdtv.net/live1/oan_1080p/chunks.m3u8
 #EXTINF:-1 group-title="国际",ABC Australia
@@ -29,10 +31,6 @@ https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Brics Chinese
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="国际",Brics English
-http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="国际",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
@@ -85,6 +83,8 @@ http://170.254.18.106/BRAVO/index.m3u8
 http://170.254.18.106/AMC/index.m3u8
 #EXTINF:-1 group-title="国际",Comedy Central
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="国际",Nickelodeon
+http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="国际",Lifetime
 http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="国际",History
@@ -107,3 +107,15 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 http://170.254.18.106/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="国际",Bet
 http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Comedy
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Sky Sport
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 group-title="国际",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="国际类",TBS
+http://143.244.60.30/TBS/index.m3u8
