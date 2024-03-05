@@ -125,7 +125,9 @@ http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 #EXTINF:-1 tvg-id="OxygenEast.us" group-title="国际",Oxygen True Crime
 http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" group-title="国际",NBA TV
-http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" group-title="国际",Tennis Channel
 http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" group-title="国际",NFL Network
+http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" group-title="国际",NBA TV
+http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
