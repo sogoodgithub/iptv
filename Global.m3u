@@ -119,3 +119,13 @@ https://donelfantastic.github.io/live/skysportsNz8.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际",TBS 
 http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" group-title="国际",Outdoor Channel
+http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
+#EXTINF:-1 tvg-id="FXXEast.us" group-title="国际",FXX
+http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+#EXTINF:-1 tvg-id="OxygenEast.us" group-title="国际",Oxygen True Crime
+http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" group-title="国际",NBA TV
+http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="国际",Tennis Channel
+http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
