@@ -101,8 +101,12 @@ http://170.254.18.106/TNT/index.m3u8
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 group-title="国际",Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:-1 group-title="国际",ION Television
+http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
 #EXTINF:-1 group-title="国际",National Geographic
 http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
+#EXTINF:-1 group-title="国际",Hallmark Channel
+http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
 #EXTINF:-1 group-title="国际",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 group-title="国际",Cinemax
