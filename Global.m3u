@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="国际",NBC
-http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1 group-title="国际",ABC
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="国际",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now 
