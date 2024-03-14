@@ -173,16 +173,6 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
 #EXTINF:-1 tvg-id="西安教育" tvg-name="西安教育" tvg-logo="https://live.fanmingming.com/tv/西安教育.png" group-title="地方",西安教育
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-#EXTINF:-1 group-title="地方",山西经济
-http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8
-#EXTINF:-1 group-title="地方",山西影视
-http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
-#EXTINF:-1 group-title="地方",山西法治
-http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8
-#EXTINF:-1 group-title="地方",山西文体
-http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 group-title="地方",南京新综
-http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757093737_-1595882577/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png"group-title="数字",CETV-1
 http://121.19.134.246:808/hls/62/index.m3u8
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
