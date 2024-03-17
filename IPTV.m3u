@@ -131,9 +131,9 @@ http://[2409:8087:7001:20:1000::93]:6610/000000001000/1000000002000013359/1.m3u8
 http://36.96.38.246:8888/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 group-title="地方",广东珠江
 http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",广东體育
+#EXTINF:-1 group-title="地方",广东体育
 http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",广东新聞
+#EXTINF:-1 group-title="地方",广东新闻
 http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
 #EXTINF:-1 group-title="地方",广东民生
 http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330
@@ -145,8 +145,6 @@ http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
 http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330
 #EXTINF:-1 group-title="地方",广州綜合
 http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",广州新闻
-http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
 #EXTINF:-1 group-title="地方",劲爆体育
 http://iptv.hiper25.com:42487/jingbaotiyu/video.m3u8?token=1710447330
 #EXTINF:-1 group-title="地方",新视觉高清
