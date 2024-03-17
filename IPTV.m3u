@@ -63,8 +63,14 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="国际",翡翠台
+http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="国际",明珠台
+http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="国际",澳門澳視
+http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
@@ -123,6 +129,28 @@ http://36.96.38.246:8888/newlive/live/hls/27/live.m3u8
 http://[2409:8087:7001:20:1000::93]:6610/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3&IASHttpSessionId=RR1420220240313040119034374
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/新疆卫视.png" group-title="📺 卫视",新疆卫视
 http://36.96.38.246:8888/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 group-title="地方",廣東珠江
+http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",廣東體育
+http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",廣東新聞
+http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",廣東民生
+http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",廣東經濟科教
+http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",大灣區衛視
+http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",岭南戏曲
+http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",廣州綜合
+http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",廣州新聞
+http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",勁爆體育
+http://iptv.hiper25.com:42487/jingbaotiyu/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="地方",新視覺高清
+http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="HB03" tvg-name="湖北教育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei3.png" group-title="地方",湖北教育
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 #EXTINF:-1 tvg-id="陕西都市青春" tvg-name="陕西都市青春" tvg-logo="https://epg.112114.xyz/logo/SXDSQC.png" group-title="地方",都市青春
