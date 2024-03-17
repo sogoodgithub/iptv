@@ -129,27 +129,27 @@ http://36.96.38.246:8888/newlive/live/hls/27/live.m3u8
 http://[2409:8087:7001:20:1000::93]:6610/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3&IASHttpSessionId=RR1420220240313040119034374
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/新疆卫视.png" group-title="卫视",新疆卫视
 http://36.96.38.246:8888/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 group-title="地方",廣東珠江
+#EXTINF:-1 group-title="地方",广东珠江
 http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",廣東體育
+#EXTINF:-1 group-title="地方",广东體育
 http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",廣東新聞
+#EXTINF:-1 group-title="地方",广东新聞
 http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",廣東民生
+#EXTINF:-1 group-title="地方",广东民生
 http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",廣東經濟科教
+#EXTINF:-1 group-title="地方",广东科教
 http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",大灣區衛視
+#EXTINF:-1 group-title="地方",大湾区卫视
 http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
 #EXTINF:-1 group-title="地方",岭南戏曲
 http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",廣州綜合
+#EXTINF:-1 group-title="地方",广州綜合
 http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",廣州新聞
+#EXTINF:-1 group-title="地方",广州新闻
 http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",勁爆體育
+#EXTINF:-1 group-title="地方",劲爆体育
 http://iptv.hiper25.com:42487/jingbaotiyu/video.m3u8?token=1710447330
-#EXTINF:-1 group-title="地方",新視覺高清
+#EXTINF:-1 group-title="地方",新视觉高清
 http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="HB03" tvg-name="湖北教育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei3.png" group-title="地方",湖北教育
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
