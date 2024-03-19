@@ -19,8 +19,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now 
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="国际",FOX SA
-http://livex.pop-app.live/s4n/poplive/ch228/playlist.m3u8
 #EXTINF:-1 group-title="国际",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="国际",Newsmax
@@ -57,8 +55,6 @@ http://170.254.18.106/AMC/index.m3u8
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 group-title="国际",BET
 http://170.254.18.106/BET/index.m3u8
-#EXTINF:-1 group-title="国际",FX
-http://170.254.18.106/FX/index.m3u8
 #EXTINF:-1 group-title="国际",TNT
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 group-title="国际",The Guardian Channel
